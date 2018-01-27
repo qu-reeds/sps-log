@@ -1,2 +1,2 @@
 # sps-log
-qu ⠶ reed ⠶ [spin](https://github.com/qu-reeds/sps-log/wiki)
+qu ⠶ reed ⠶ log ⠶ [spin](https://github.com/qu-reeds/sps-log/wiki)
